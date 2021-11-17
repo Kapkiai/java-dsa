@@ -1,0 +1,15 @@
+.project
+.metadata
+.classpath
+.settings/
+**/Thumbs.db
+target
+*.iml
+*.iws
+*.ipr
+.idea/
+.DS_Store
+.factorypath
+.vscode
+.env
+settings.xml
